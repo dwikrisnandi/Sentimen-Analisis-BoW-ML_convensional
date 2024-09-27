@@ -5,7 +5,7 @@
 Proyek ini bertujuan untuk melakukan analisis sentimen pada ulasan aplikasi BRIMO. Ulasan-ulasan ini akan diproses menggunakan teknik **Bag of Words (BoW)** untuk membangun model sentimen yang dapat memprediksi apakah ulasan bersifat positif atau negatif.
 
 ## Dataset
-Dataset yang digunakan adalah kumpulan ulasan aplikasi BRIMO yang telah disimpan dalam file `ulasan_brimo.csv`. Data ini diambil dari hasil scraping ulasan pengguna aplikasi BRIMO.
+Dataset yang digunakan adalah kumpulan ulasan aplikasi BRIMO yang telah disimpan dalam file `ulasan_brimo.csv`. Data ini diambil dari hasil scraping ulasan pengguna aplikasi BRIMO di dile `Analisis_Sentimen_Scarping`.
 
 ## Prasyarat
 Proyek ini menggunakan beberapa pustaka Python yang harus diinstal sebelum menjalankan kode:
