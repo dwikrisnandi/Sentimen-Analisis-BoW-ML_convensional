@@ -27,7 +27,7 @@ pip install pandas numpy matplotlib seaborn wordcloud sastrawi nltk
 2. Pastikan Anda memiliki dataset `ulasan_brimo.csv` yang atay menjalanjan
    ```bash
    Analisis_sentimen_Scraping.ipynb
-   ```.
+   ```
 4. Jalankan script Python untuk memproses data dan melakukan analisis sentimen.
    ```bash
    Analisis_sentimen_BoW.ipynb
