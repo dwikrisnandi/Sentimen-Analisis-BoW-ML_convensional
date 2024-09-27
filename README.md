@@ -24,10 +24,13 @@ pip install pandas numpy matplotlib seaborn wordcloud sastrawi nltk
 
 ## Cara Menjalankan
 1. Download atau clone repository ini.
-2. Pastikan Anda memiliki dataset `ulasan_brimo.csv` yang disimpan di direktori yang sesuai.
-3. Jalankan script Python untuk memproses data dan melakukan analisis sentimen.
+2. Pastikan Anda memiliki dataset `ulasan_brimo.csv` yang atay menjalanjan
    ```bash
-   python submission_analisis_sentimen_bow_(2).py
+   Analisis_sentimen_Scraping.ipynb
+   ```.
+4. Jalankan script Python untuk memproses data dan melakukan analisis sentimen.
+   ```bash
+   Analisis_sentimen_BoW.ipynb
    ```
 
 ## Model yang Digunakan
@@ -41,3 +44,9 @@ Selain itu, digunakan juga beberapa teknik pemrosesan teks, seperti:
 
 ## Hasil Akhir
 Hasil dari analisis ini adalah prediksi apakah suatu ulasan bersifat positif atau negatif, serta berbagai visualisasi data ulasan yang telah diproses.
+
+## Penulis
+
+**DWI KRISNANDI**
+
+Silakan hubungi jika memiliki pertanyaan atau membutuhkan bantuan lebih lanjut.
